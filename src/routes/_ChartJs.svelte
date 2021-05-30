@@ -1,7 +1,7 @@
 <script >
 
 	// Chart.js
-	import * as ChartJS from 'chart.js/auto/auto.js'
+	import ChartJS from 'chart.js/auto/auto.js'
 	
 	// Chart.js datalabels plugin 
 	import ChartDataLabels from 'chartjs-plugin-datalabels'
